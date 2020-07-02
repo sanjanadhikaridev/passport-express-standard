@@ -1,8 +1,8 @@
 // add this file to .gitignore
 
 module.exports = {
-        google: {
-            clientID: 'enter your client id here',
-            clientSecret: 'enter your client secret here'
-        }
+    google: {
+        clientID: '6165811710231-cpi5rg74e25eldd05t9v9enkukvloj00.apps.googleusercontent.com',
+        clientSecret: '1fcAa5NyAWOpuEeVY7wsd3Tw'
+    }
 };
