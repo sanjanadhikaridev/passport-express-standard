@@ -14,7 +14,7 @@ mongoose.connect(keys.mongodb.dbURI, () => {
     console.log('connected to mongodb');
 });
 
-// set up routes
+// set up ro utes
 app.use('/auth', authRoutes);
 
 // create home route
